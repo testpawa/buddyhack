@@ -1,0 +1,2 @@
+# buddyhack
+Learn Ethical Hacking
